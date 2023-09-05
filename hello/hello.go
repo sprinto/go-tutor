@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"example.com/greetings"
+	"github.com/sprinto/go-tutor/greetings"
 )
 
 func main() {
